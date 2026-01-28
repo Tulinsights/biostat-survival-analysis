@@ -8,6 +8,9 @@ How long do patients typically survive after diagnosis?
 Does biological sex significantly impact survival rates?
 
 Statistical Techniques:
+
 Kaplan-Meier Estimator: To estimate the survival function.
+
 Log-Rank Test: To statistically compare the survival distributions of two groups.
+
 Censoring Handling: Accounting for patients who were "lost to follow-up."
